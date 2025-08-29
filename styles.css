@@ -181,3 +181,15 @@ button.signup{
     padding:0px 75px;
     font-size:18px;
 }
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    padding: 40px;
+    justify-content: center;
+}
+
+
+.footnote{
+    font-size: 18px;
+    color: #F9FAF8;
+}
